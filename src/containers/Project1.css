@@ -7,10 +7,7 @@
   }
   
   body {
-    background-color: #85dcb8;
-    font-family: 'Rocher';
     text-align: center;
-    /* font-size: 50px; */
     height: 100vh;
     display: flex;
     flex-direction: column;
@@ -18,6 +15,12 @@
     justify-content: center;
   }
   
+  .project1{
+    font-family: 'Rocher';
+    background-color: #85dcb8;
+    height: 100vh;
+  }
+
   h1 {
     margin: 0;
   }
